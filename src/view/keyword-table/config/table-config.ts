@@ -1,0 +1,33 @@
+export const keywordTableData = {
+  tableLabel: [{ label: '关键字', props: 'value' }],
+  tableArr: [
+    { value: 'program' },
+    { value: 'function' },
+    { value: 'procedure' },
+    { value: 'array' },
+    { value: 'const' },
+    { value: 'file' },
+    { value: 'record' },
+    { value: 'set' },
+    { value: 'type' },
+    { value: 'var' },
+    { value: 'case' },
+    { value: 'of' },
+    { value: 'begin' },
+    { value: 'end' },
+    { value: 'do' },
+    { value: 'if' },
+    { value: 'else' },
+    { value: 'for' },
+    { value: 'repeat' },
+    { value: 'then' },
+    { value: 'while' },
+    { value: 'with' },
+    { value: 'string' },
+    { value: 'integer' },
+    { value: 'class' },
+    { value: 'not' },
+    { value: 'int' }
+  ],
+  showID: true
+}
